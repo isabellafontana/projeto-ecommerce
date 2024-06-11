@@ -47,9 +47,12 @@ nav#menu a:visited{
     color: antiquewhite;
     font-weight: bold;
 }
-nav#menu a:hover{
-    color: rgb(175, 59, 96);
-}
+
 nav#menu li:hover{
     background-color: rgb(182, 42, 86);
+}
+/* Manipulação de imagens do projeto, na página produtos */
+.produtos img{
+    max-width: 300px;
+
 }
